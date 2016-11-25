@@ -961,17 +961,6 @@ a:focus, [tabindex="0"]:focus {
   visibility: hidden;
 }
 
-@media print {
-
-  .no-print {
-    display: none;
-    visibility: hidden;
-  }
-
-  .print-only {
-    display: block;
-    visibility: visible;
-  }
 
   /*
    * (c) HTML5 Boilerplate || MIT License
